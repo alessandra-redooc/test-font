@@ -1,0 +1,26 @@
+{
+    "name": "alessandra-redooc/test-font",
+    "description": "Asset Bundle to include some Fonts on your Yii 2 project",
+    "keywords": [
+        "yii2 font"
+    ],
+    "homepage": "https://github.com/alessandra-redooc/test-font",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Redooc.com",
+            "email": "info@redooc.com",
+            "homepage": "https://redooc.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/oswald-googlefont": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "redooc\\sitefonts\\": ""
+        }
+    }
+}
