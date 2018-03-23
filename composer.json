@@ -16,7 +16,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bowe-asset/oswald-googlefont": "*"
+        "bower-asset/oswald-googlefont": "*"
     },
     "autoload": {
         "psr-4": {
