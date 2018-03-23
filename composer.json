@@ -16,7 +16,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "alessandra-redooc/oswald-bower": "1"
+        "bowe-asset/oswald-googlefont": "*"
     },
     "autoload": {
         "psr-4": {
